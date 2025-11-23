@@ -1,23 +1,40 @@
-- Bing Wallpaper
-- Bluetooth Battery Meter
-- Blur my shell
-- Caffeine
-- Clipboard Indicator
-- Compiz alike magic lamp effect
-- Control monitor brightness and volume with ddcutil
-- Desktop cube
-- Disable unredirect fullscreen windows
-- GSConnect
-- Hide Top Bar
-- Just Perfection
-- Media Label and Control (Mpris Label)
-- Solaar ectension
-- Spotify Controls + Track Info
-- UPower Battery
-- Vitals
-- Desktop Icons NG (DING)
-- Native Window Placement
-- Screenshot Window Sizer
-- Ubuntu App Indicators
-- Ubuntu Dock
-- Ubuntu Tiling Assistant
+## Bing Wallpaper
+Автоматически подгружает свежие обои дня от Bing. Меняет фон на красивые фотографии без твоего участия.
+## Bluetooth Battery Meter
+Показывает уровень заряда беспроводных устройств прямо на панели. Очень удобно для мышей, клавиатур, наушников.
+## Blur my shell
+Добавляет мягкий, красивый блюр к панели, меню приложений, доку и другим элементам GNOME. Делает интерфейс более «воздушным».
+## Caffeine
+Отключает авто-сон и блокировку экрана, когда нужно, чтобы система «не засыпала». Можно быстро включать и выключать.
+## Clipboard Indicator
+История буфера обмена. Позволяет копировать несколько элементов подряд и вставлять старые записи.
+## Compiz alike magic lamp effect
+Добавляет анимацию «магической лампы» при сворачивании окон — как в Compiz.
+## Control monitor brightness and volume with ddcutil
+Позволяет менять яркость и громкость внешних мониторов через DDC/CI прямо из системы. Очень полезно, если у монитора неудобные кнопки.
+## Desktop cube
+Страницы рабочих столов отображаются в виде 3D-куба, как в Compiz.
+## Disable unredirect fullscreen windows
+Улучшает производительность в полноэкранных приложениях: игры, видео. Уменьшает микролаги и снижает задержки.
+## GSConnect
+Полноценный аналог KDE Connect для GNOME. Связывает телефон на Android с ПК: уведомления, файлы, клипборд, управление мультимедиа.
+## Hide Top Bar
+Автоматически скрывает верхнюю панель, чтобы экономить вертикальное пространство — особенно полезно на ноутбуках.
+## Just Perfection
+Глубокая кастомизация окружения: можно включить или выключить практически любой элемент GNOME Shell. Отлично подходит для тонкой подстройки.
+## Media Label and Control (Mpris Label)
+Показывает название текущего трека на панели и добавляет кнопки управления музыкой через MPRIS.
+## Solaar ectension
+Интеграция с Solaar для устройств Logitech (Unifying/Bolt). Показывает заряд, позволяет настраивать кнопки.
+## Spotify Controls + Track Info
+Управление Spotify с панели + отображение текущего трека. Самый удобный вариант для поклонников Spotify.
+## UPower Battery
+Расширенная индикация батареи — подробные данные по состоянию аккумулятора ноутбука.
+## Vitals
+Панель мониторинга: CPU, RAM, температура, вентиляторы, сеть. Легкий и очень полезный.
+## Desktop Icons NG (DING)
+## Native Window Placement
+## Screenshot Window Sizer
+## Ubuntu App Indicators
+## Ubuntu Dock
+## Ubuntu Tiling Assistant
