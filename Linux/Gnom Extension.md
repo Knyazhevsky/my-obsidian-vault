@@ -6,4 +6,12 @@
 - Compiz alike magic lamp effect
 - Control monitor brightness and volume with ddcutil
 - Desktop cube
-- Disable unredi
+- Disable unredirect fullscreen windows
+- GSConnect
+- Hide Top Bar
+- Just Perfection
+- Media Label and Control (Mpris Label)
+- Solaar ectension
+- Spotify Controls + Track Info
+- UPower Battery
+- Vitals
