@@ -1,0 +1,9 @@
+- Bing Wallpaper
+- Bluetooth Battery Meter
+- Blur my shell
+- Caffeine
+- Clipboard Indicator
+- Compiz alike magic lamp effect
+- Control monitor brightness and volume with ddcutil
+- Desktop cube
+- Disable unredi
