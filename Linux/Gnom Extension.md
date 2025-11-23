@@ -15,3 +15,9 @@
 - Spotify Controls + Track Info
 - UPower Battery
 - Vitals
+- Desktop Icons NG (DING)
+- Native Window Placement
+- Screenshot Window Sizer
+- Ubuntu App Indicators
+- Ubuntu Dock
+- Ubuntu Tiling Assistant
